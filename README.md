@@ -32,4 +32,4 @@ Veja a versão detalhada no [meu portfólio no Notion](https://weak-waste-9ec.no
 
 ## Autora
 **Joana Quadros**: estudante de Ciência da Computação e QA em formação
-[LinkedIn](www.linkedin.com/in/joana-quadros)
+[LinkedIn](https://www.linkedin.com/in/joana-quadros)
